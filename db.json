@@ -2,27 +2,27 @@
   "profile": [
     {
       "url": "https://cdn.awsli.com.br/600x1000/684/684977/produto/72323911/672ce9ca8f.jpg",
-      "categoria": "CANECA CANECA",
-      "nomeProduto": "caneca ",
+      "categoria": "Caneca",
+      "nomeProduto": "Caneca stormtrooper",
       "preco": "R$ 5,00",
-      "descricao": "caneca",
+      "descricao": "Caneca stormtrooper",
       "id": "3"
     },
     {
       "url": "https://images-americanas.b2w.io/produtos/1497109406/imagens/caneca-star-wars-3d-darth-vader-zona-criativa-disney-oficial/1497109406_1_large.jpg",
-      "categoria": "toy",
-      "nomeProduto": "boneco de lego",
+      "categoria": "Caneca",
+      "nomeProduto": "Caneca darth vader",
       "preco": "R$ 50,00",
-      "descricao": "teste do teste",
+      "descricao": "Caneca com formato darth vader",
       "id": "4"
     },
     {
       "id": "5",
       "url": "https://mainstreettakoma.org/wp-content/uploads/2018/05/illuminati-symbols-Starbucks-Coffee-Logo.gif",
-      "categoria": "cafe",
-      "nomeProduto": "cafe",
+      "categoria": "Enfeite",
+      "nomeProduto": "Starbucks Coffee",
       "preco": "R$ 2,55",
-      "descricao": "cafe"
+      "descricao": "Enfeite de parede Starbucks Coffee"
     },
     {
       "url": "https://m.media-amazon.com/images/I/81jN7ThReSL._AC_SY450_.jpg",
@@ -34,10 +34,10 @@
     },
     {
       "url": "https://a-static.mlcdn.com.br/800x560/caneca-personalizada-alma-de-girassol-florir/florirpersonalizadosltda/15926647043/f84511d8ea27ccb0f3e9a5f5494dd66b.jpeg",
-      "categoria": "caneca22",
-      "nomeProduto": "caneca",
+      "categoria": "Caneca",
+      "nomeProduto": "Caneca",
       "preco": "R$ 20,00",
-      "descricao": "caneca 2",
+      "descricao": "caneca com texto",
       "id": "DGOvEp0"
     }
   ]
